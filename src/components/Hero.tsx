@@ -40,21 +40,6 @@ export default function Hero() {
             </span>
           ))}
         </div>
-
-        <div className="flex gap-3">
-          <a
-            href="#projects"
-            className="bg-white text-black px-5 py-2 font-bold rounded"
-          >
-            Ver projetos
-          </a>
-          <a
-            href="#contact"
-            className="border border-white/40 text-white px-5 py-2 rounded"
-          >
-            Contato
-          </a>
-        </div>
       </div>
     </section>
   );
